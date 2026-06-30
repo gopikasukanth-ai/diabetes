@@ -35,4 +35,5 @@ The model predicts whether a person is diabetic based on medical information.
 
 ## 👩‍💻 Developed By
 Gopika R
+
 BE Computer science and Engineering
